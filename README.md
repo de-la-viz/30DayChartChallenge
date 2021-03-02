@@ -11,7 +11,7 @@ Every day, or at least for the days where I am able to participate, I will list 
 
 ### 2. pictogram
 
-### 3. histtorical
+### 3. historical
 
 ### 4. magical
 
@@ -23,6 +23,6 @@ Every day, or at least for the days where I am able to participate, I will list 
 
 ## Relationships
 
-## timeseries
+## Timeseries
 
-## uncertainties
+## Uncertainties
